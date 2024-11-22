@@ -1,0 +1,206 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mrlas\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\3\u041A\u0423\u0420\u0421\\\u041C\u043E\u0447\u0430\u043B\u043E\u0432\\WPF\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8B36BF86-1A81-41CE-97C2-092D923D9DCA}|WPF\\WPF.csproj|c:\\users\\mrlas\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\3\u043A\u0443\u0440\u0441\\\u043C\u043E\u0447\u0430\u043B\u043E\u0432\\wpf\\wpf\\viewmodels\\mainmenuviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B36BF86-1A81-41CE-97C2-092D923D9DCA}|WPF\\WPF.csproj|solutionrelative:wpf\\viewmodels\\mainmenuviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B36BF86-1A81-41CE-97C2-092D923D9DCA}|WPF\\WPF.csproj|C:\\Users\\mrlas\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\3\u041A\u0423\u0420\u0421\\\u041C\u043E\u0447\u0430\u043B\u043E\u0432\\WPF\\wpf\\views\\mainmenuview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8B36BF86-1A81-41CE-97C2-092D923D9DCA}|WPF\\WPF.csproj|solutionrelative:wpf\\views\\mainmenuview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B36BF86-1A81-41CE-97C2-092D923D9DCA}|WPF\\WPF.csproj|c:\\users\\mrlas\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\3\u043A\u0443\u0440\u0441\\\u043C\u043E\u0447\u0430\u043B\u043E\u0432\\wpf\\wpf\\views\\mainmenuview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B36BF86-1A81-41CE-97C2-092D923D9DCA}|WPF\\WPF.csproj|solutionrelative:wpf\\views\\mainmenuview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B36BF86-1A81-41CE-97C2-092D923D9DCA}|WPF\\WPF.csproj|c:\\users\\mrlas\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\3\u043A\u0443\u0440\u0441\\\u043C\u043E\u0447\u0430\u043B\u043E\u0432\\wpf\\wpf\\views\\adminmainmenuview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8B36BF86-1A81-41CE-97C2-092D923D9DCA}|WPF\\WPF.csproj|solutionrelative:wpf\\views\\adminmainmenuview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B36BF86-1A81-41CE-97C2-092D923D9DCA}|WPF\\WPF.csproj|c:\\users\\mrlas\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\3\u043A\u0443\u0440\u0441\\\u043C\u043E\u0447\u0430\u043B\u043E\u0432\\wpf\\wpf\\viewmodels\\authorizationviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B36BF86-1A81-41CE-97C2-092D923D9DCA}|WPF\\WPF.csproj|solutionrelative:wpf\\viewmodels\\authorizationviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B36BF86-1A81-41CE-97C2-092D923D9DCA}|WPF\\WPF.csproj|C:\\Users\\mrlas\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\3\u041A\u0423\u0420\u0421\\\u041C\u043E\u0447\u0430\u043B\u043E\u0432\\WPF\\wpf\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8B36BF86-1A81-41CE-97C2-092D923D9DCA}|WPF\\WPF.csproj|solutionrelative:wpf\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B36BF86-1A81-41CE-97C2-092D923D9DCA}|WPF\\WPF.csproj|C:\\Users\\mrlas\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\3\u041A\u0423\u0420\u0421\\\u041C\u043E\u0447\u0430\u043B\u043E\u0432\\WPF\\wpf\\views\\editprofileview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8B36BF86-1A81-41CE-97C2-092D923D9DCA}|WPF\\WPF.csproj|solutionrelative:wpf\\views\\editprofileview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B36BF86-1A81-41CE-97C2-092D923D9DCA}|WPF\\WPF.csproj|C:\\Users\\mrlas\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\3\u041A\u0423\u0420\u0421\\\u041C\u043E\u0447\u0430\u043B\u043E\u0432\\WPF\\wpf\\views\\tariffmanagementview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8B36BF86-1A81-41CE-97C2-092D923D9DCA}|WPF\\WPF.csproj|solutionrelative:wpf\\views\\tariffmanagementview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B36BF86-1A81-41CE-97C2-092D923D9DCA}|WPF\\WPF.csproj|C:\\Users\\mrlas\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\3\u041A\u0423\u0420\u0421\\\u041C\u043E\u0447\u0430\u043B\u043E\u0432\\WPF\\wpf\\views\\topupbalanceview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8B36BF86-1A81-41CE-97C2-092D923D9DCA}|WPF\\WPF.csproj|solutionrelative:wpf\\views\\topupbalanceview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B36BF86-1A81-41CE-97C2-092D923D9DCA}|WPF\\WPF.csproj|C:\\Users\\mrlas\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\3\u041A\u0423\u0420\u0421\\\u041C\u043E\u0447\u0430\u043B\u043E\u0432\\WPF\\wpf\\views\\usermanagementview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8B36BF86-1A81-41CE-97C2-092D923D9DCA}|WPF\\WPF.csproj|solutionrelative:wpf\\views\\usermanagementview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B36BF86-1A81-41CE-97C2-092D923D9DCA}|WPF\\WPF.csproj|C:\\Users\\mrlas\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\3\u041A\u0423\u0420\u0421\\\u041C\u043E\u0447\u0430\u043B\u043E\u0432\\WPF\\wpf\\views\\tarifmenuview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8B36BF86-1A81-41CE-97C2-092D923D9DCA}|WPF\\WPF.csproj|solutionrelative:wpf\\views\\tarifmenuview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 1636,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainMenuViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\mrlas\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\3\u041A\u0423\u0420\u0421\\\u041C\u043E\u0447\u0430\u043B\u043E\u0432\\WPF\\WPF\\ViewModels\\MainMenuViewModel.cs",
+              "RelativeDocumentMoniker": "WPF\\ViewModels\\MainMenuViewModel.cs",
+              "ToolTip": "C:\\Users\\mrlas\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\3\u041A\u0423\u0420\u0421\\\u041C\u043E\u0447\u0430\u043B\u043E\u0432\\WPF\\WPF\\ViewModels\\MainMenuViewModel.cs",
+              "RelativeToolTip": "WPF\\ViewModels\\MainMenuViewModel.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T11:30:52.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainMenuView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\mrlas\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\3\u041A\u0423\u0420\u0421\\\u041C\u043E\u0447\u0430\u043B\u043E\u0432\\WPF\\WPF\\Views\\MainMenuView.xaml.cs",
+              "RelativeDocumentMoniker": "WPF\\Views\\MainMenuView.xaml.cs",
+              "ToolTip": "C:\\Users\\mrlas\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\3\u041A\u0423\u0420\u0421\\\u041C\u043E\u0447\u0430\u043B\u043E\u0432\\WPF\\WPF\\Views\\MainMenuView.xaml.cs",
+              "RelativeToolTip": "WPF\\Views\\MainMenuView.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T11:30:36.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthorizationViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\mrlas\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\3\u041A\u0423\u0420\u0421\\\u041C\u043E\u0447\u0430\u043B\u043E\u0432\\WPF\\WPF\\ViewModels\\AuthorizationViewModel.cs",
+              "RelativeDocumentMoniker": "WPF\\ViewModels\\AuthorizationViewModel.cs",
+              "ToolTip": "C:\\Users\\mrlas\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\3\u041A\u0423\u0420\u0421\\\u041C\u043E\u0447\u0430\u043B\u043E\u0432\\WPF\\WPF\\ViewModels\\AuthorizationViewModel.cs",
+              "RelativeToolTip": "WPF\\ViewModels\\AuthorizationViewModel.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAkwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T11:07:40.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TarifMenuView.xaml",
+              "DocumentMoniker": "C:\\Users\\mrlas\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\3\u041A\u0423\u0420\u0421\\\u041C\u043E\u0447\u0430\u043B\u043E\u0432\\WPF\\WPF\\Views\\TarifMenuView.xaml",
+              "RelativeDocumentMoniker": "WPF\\Views\\TarifMenuView.xaml",
+              "ToolTip": "C:\\Users\\mrlas\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\3\u041A\u0423\u0420\u0421\\\u041C\u043E\u0447\u0430\u043B\u043E\u0432\\WPF\\WPF\\Views\\TarifMenuView.xaml",
+              "RelativeToolTip": "WPF\\Views\\TarifMenuView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-22T06:18:42.073Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserManagementView.xaml",
+              "DocumentMoniker": "C:\\Users\\mrlas\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\3\u041A\u0423\u0420\u0421\\\u041C\u043E\u0447\u0430\u043B\u043E\u0432\\WPF\\WPF\\Views\\UserManagementView.xaml",
+              "RelativeDocumentMoniker": "WPF\\Views\\UserManagementView.xaml",
+              "ToolTip": "C:\\Users\\mrlas\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\3\u041A\u0423\u0420\u0421\\\u041C\u043E\u0447\u0430\u043B\u043E\u0432\\WPF\\WPF\\Views\\UserManagementView.xaml",
+              "RelativeToolTip": "WPF\\Views\\UserManagementView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-22T06:18:51.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TopUpBalanceView.xaml",
+              "DocumentMoniker": "C:\\Users\\mrlas\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\3\u041A\u0423\u0420\u0421\\\u041C\u043E\u0447\u0430\u043B\u043E\u0432\\WPF\\WPF\\Views\\TopUpBalanceView.xaml",
+              "RelativeDocumentMoniker": "WPF\\Views\\TopUpBalanceView.xaml",
+              "ToolTip": "C:\\Users\\mrlas\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\3\u041A\u0423\u0420\u0421\\\u041C\u043E\u0447\u0430\u043B\u043E\u0432\\WPF\\WPF\\Views\\TopUpBalanceView.xaml",
+              "RelativeToolTip": "WPF\\Views\\TopUpBalanceView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-22T06:18:46.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TariffManagementView.xaml",
+              "DocumentMoniker": "C:\\Users\\mrlas\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\3\u041A\u0423\u0420\u0421\\\u041C\u043E\u0447\u0430\u043B\u043E\u0432\\WPF\\WPF\\Views\\TariffManagementView.xaml",
+              "RelativeDocumentMoniker": "WPF\\Views\\TariffManagementView.xaml",
+              "ToolTip": "C:\\Users\\mrlas\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\3\u041A\u0423\u0420\u0421\\\u041C\u043E\u0447\u0430\u043B\u043E\u0432\\WPF\\WPF\\Views\\TariffManagementView.xaml",
+              "RelativeToolTip": "WPF\\Views\\TariffManagementView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-22T06:18:36.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EditProfileView.xaml",
+              "DocumentMoniker": "C:\\Users\\mrlas\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\3\u041A\u0423\u0420\u0421\\\u041C\u043E\u0447\u0430\u043B\u043E\u0432\\WPF\\WPF\\Views\\EditProfileView.xaml",
+              "RelativeDocumentMoniker": "WPF\\Views\\EditProfileView.xaml",
+              "ToolTip": "C:\\Users\\mrlas\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\3\u041A\u0423\u0420\u0421\\\u041C\u043E\u0447\u0430\u043B\u043E\u0432\\WPF\\WPF\\Views\\EditProfileView.xaml",
+              "RelativeToolTip": "WPF\\Views\\EditProfileView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-22T06:18:29.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\mrlas\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\3\u041A\u0423\u0420\u0421\\\u041C\u043E\u0447\u0430\u043B\u043E\u0432\\WPF\\WPF\\Views\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WPF\\Views\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\mrlas\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\3\u041A\u0423\u0420\u0421\\\u041C\u043E\u0447\u0430\u043B\u043E\u0432\\WPF\\WPF\\Views\\MainWindow.xaml",
+              "RelativeToolTip": "WPF\\Views\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-22T03:50:03.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainMenuView.xaml",
+              "DocumentMoniker": "C:\\Users\\mrlas\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\3\u041A\u0423\u0420\u0421\\\u041C\u043E\u0447\u0430\u043B\u043E\u0432\\WPF\\WPF\\Views\\MainMenuView.xaml",
+              "RelativeDocumentMoniker": "WPF\\Views\\MainMenuView.xaml",
+              "ToolTip": "C:\\Users\\mrlas\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\3\u041A\u0423\u0420\u0421\\\u041C\u043E\u0447\u0430\u043B\u043E\u0432\\WPF\\WPF\\Views\\MainMenuView.xaml",
+              "RelativeToolTip": "WPF\\Views\\MainMenuView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-22T03:49:59.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AdminMainMenuView.xaml",
+              "DocumentMoniker": "C:\\Users\\mrlas\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\3\u041A\u0423\u0420\u0421\\\u041C\u043E\u0447\u0430\u043B\u043E\u0432\\WPF\\WPF\\Views\\AdminMainMenuView.xaml",
+              "RelativeDocumentMoniker": "WPF\\Views\\AdminMainMenuView.xaml",
+              "ToolTip": "C:\\Users\\mrlas\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\3\u041A\u0423\u0420\u0421\\\u041C\u043E\u0447\u0430\u043B\u043E\u0432\\WPF\\WPF\\Views\\AdminMainMenuView.xaml",
+              "RelativeToolTip": "WPF\\Views\\AdminMainMenuView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-22T03:49:55.361Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

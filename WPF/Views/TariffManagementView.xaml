@@ -1,0 +1,39 @@
+﻿<Window x:Class="WPF.Views.TariffManagementView"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Icon="/WPF;component/Images/ICON.png"
+        Title="Tariff Management" Height="450" Width="800">
+    <Grid>
+        <ListView ItemsSource="{Binding Tariffs}" SelectedItem="{Binding SelectedTariff}">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Header="ID" DisplayMemberBinding="{Binding Id}"/>
+                    <GridViewColumn Header="Name" DisplayMemberBinding="{Binding Name}"/>
+                    <GridViewColumn Header="Price Per Month" DisplayMemberBinding="{Binding PricePerMonth}"/>
+                    <GridViewColumn Header="Price Gorod" DisplayMemberBinding="{Binding PriceGorod}"/>
+                    <GridViewColumn Header="Price MejGorod" DisplayMemberBinding="{Binding PriceMejGorod}"/>
+                    <GridViewColumn Header="Price MejNarod" DisplayMemberBinding="{Binding PriceMejNarod}"/>
+                </GridView>
+            </ListView.View>
+        </ListView>
+        <StackPanel VerticalAlignment="Bottom" Orientation="Horizontal" HorizontalAlignment="Center">
+            <Button Content="Confirm Changes" Command="{Binding ConfirmChangesCommand}" Margin="10" Width="120" Height="35"/>
+            <Button Content="Add Tariff" Command="{Binding AddTariffCommand}" Margin="10" Width="100" Height="35"/>
+            <Button Content="Delete Tariff" Command="{Binding DeleteTariffCommand}" Margin="10" Width="100" Height="35"/>
+            <Button Content="Exit" Command="{Binding ExitCommand}" Margin="10" Width="100" Height="35"/>
+        </StackPanel>
+        <StackPanel VerticalAlignment="Bottom" Orientation="Vertical" HorizontalAlignment="Right" Margin="0,0,20,150">
+            <TextBlock Text="Edit Selected Tariff" FontSize="16" RenderTransformOrigin="0.473,-5.839" Height="26"/>
+            <TextBlock Text="Name"/>
+            <TextBox Text="{Binding SelectedTariff.Name, UpdateSourceTrigger=PropertyChanged}"/>
+            <TextBlock Text="Price Per Month"/>
+            <TextBox Text="{Binding SelectedTariff.PricePerMonth, UpdateSourceTrigger=PropertyChanged}"/>
+            <TextBlock Text="Price Gorod"/>
+            <TextBox Text="{Binding SelectedTariff.PriceGorod, UpdateSourceTrigger=PropertyChanged}"/>
+            <TextBlock Text="Price MejGorod"/>
+            <TextBox Text="{Binding SelectedTariff.PriceMejGorod, UpdateSourceTrigger=PropertyChanged}"/>
+            <TextBlock Text="Price MejNarod"/>
+            <TextBox Text="{Binding SelectedTariff.PriceMejNarod, UpdateSourceTrigger=PropertyChanged}"/>
+        </StackPanel>
+    </Grid>
+</Window>
